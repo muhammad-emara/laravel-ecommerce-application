@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5cba28-7326-40ed-b1b3-d22a2753b45c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Contracts/BaseContract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Repositories/BaseRepository.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587120517259</updated>
       <workItem from="1587120519266" duration="3831000" />
-      <workItem from="1587124383660" duration="13877000" />
+      <workItem from="1587124383660" duration="14607000" />
     </task>
     <servers />
   </component>
@@ -168,14 +168,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="517" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587305781974">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="517" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1587305781974" />
     <state x="349" y="152" key="IDE.errors.dialog" timestamp="1587147245108">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="349" y="152" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1587147245108" />
-    <state x="540" y="162" key="NewPhpClassDialog" timestamp="1587305480897">
+    <state x="540" y="162" key="NewPhpClassDialog" timestamp="1587305790424">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="540" y="162" key="NewPhpClassDialog/0.0.1536.834@0.0.1536.834" timestamp="1587305480897" />
+    <state x="540" y="162" key="NewPhpClassDialog/0.0.1536.834@0.0.1536.834" timestamp="1587305790424" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1587124347399">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
