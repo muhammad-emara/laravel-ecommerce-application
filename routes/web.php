@@ -1,5 +1,5 @@
 <?php
-
+require 'admin.php';
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,6 +15,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-});
 
-Route::view('/admin', 'admin.dashboard.index');
+   // return  'TESTING';
+});
+/*
+Route::get('/', function () {
+    return view('test.testing.welcome');
+
+    // return  'TESTING';
+})->name('tesing.welcome');*/
+
+//Route::view('/admin', 'admin.dashboard.index');
+//Route::view('/admin/login', 'admin.auth.login');
